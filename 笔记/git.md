@@ -193,7 +193,7 @@ hhhhhhhhhh edit by master
 ### 查看远程库地址别名
 
 ```
-git add remote -v
+git remote -v
 ```
 
 ### 保存远程库地址别名
